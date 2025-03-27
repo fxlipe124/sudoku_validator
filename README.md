@@ -42,6 +42,8 @@ Ignora células vazias (representadas por 0).
 ## Exemplo de Uso 
 Basta editar ou inserir novos números na varíavel "board" para validar o seu tabuleiro.
 
+![image](https://github.com/user-attachments/assets/d6b4746d-4c08-4fa1-92c9-1e93ed48a53a)
+
 ## Próximos Passos
 Adicionar interface para entrada de tabuleiros.
 
